@@ -1,6 +1,6 @@
 {
   "name": "normalize-npm-registry-package",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Normalize a package metadata from the npm registry",
   "main": "dist/index.js",
   "scripts": {
