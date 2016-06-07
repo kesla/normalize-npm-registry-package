@@ -1,4 +1,4 @@
-# normalize-npm-registry-package 
+# normalize-npm-registry-package [![Build Status](https://travis-ci.org/kesla/normalize-npm-registry-package.png?branch=master)](https://travis-ci.org/kesla/normalize-npm-registry-package)
 
 Normalize a package metadata from the npm registry
 
